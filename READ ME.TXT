@@ -4,5 +4,11 @@ Etapes :
 1- créer un repository git
 2- créer un fichier read me.txt qui présente le projet
 3- ajouter 2 fichiers
-4- faire au moins 4 commit distincts
+4- faire au moins 4 commits distincts
 5- envoyer le repository sur github
+
+Mon mini projet :
+Je vais créer une page php qui s'appuiera sur un fichier texte pour compter le nombre de rafraichissement de la page et l'afficher. 
+J'aurai donc deux fichiers en plus de mon fichier read me :
+page.php
+compteur.pph
