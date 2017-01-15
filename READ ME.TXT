@@ -1,0 +1,8 @@
+Explications mini tp openclassrooms sur git et github
+
+Etapes : 
+1- créer un repository git
+2- créer un fichier read me.txt qui présente le projet
+3- ajouter 2 fichiers
+4- faire au moins 4 commit distincts
+5- envoyer le repository sur github
