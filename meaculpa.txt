@@ -1,0 +1,1 @@
+j'imagine qu'un fichier compteur se met dans un gitignore car il est tout le temps modifié !!!!!
